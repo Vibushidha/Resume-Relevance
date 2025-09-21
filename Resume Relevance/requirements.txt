@@ -1,0 +1,10 @@
+streamlit
+PyMuPDF
+python-docx
+pdfplumber
+spacy
+fuzzywuzzy
+sentence-transformers
+scikit-learn
+numpy
+pandas
